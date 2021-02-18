@@ -1,0 +1,22 @@
+{
+  "name": "maxwell",
+  "version": "0.0.1",
+  "description": "discord.js application for the automation of administrative tasks, such as role assignment. Primarily developed for the ESCL Discord Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/lnsn/maxwell.git"
+  },
+  "author": "lnsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/lnsn/maxwell/issues"
+  },
+  "homepage": "https://gitlab.com/lnsn/maxwell#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
